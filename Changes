@@ -1,0 +1,6 @@
+Revision history for Perl extension TRL::MT_Plate.
+
+0.111  Tue Nov 13 07:57:34 2007
+	- original version; created by h2xs 1.23 with options
+		-X -n TRL::MT_Plate
+

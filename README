@@ -1,0 +1,26 @@
+TRL-MT_Plate version 0.111
+==========================
+
+TRL::MT_Plate is a Perl module for creating and manipulating microtitre plate objects. It defines a Class of MT_Plate for each microtitre format, which include variables specific to the format and methods that are common to all. 
+
+INSTALLATION
+
+To install this module type the following:
+
+   perl Makefile.PL
+   make
+   make test
+   make install
+
+DEPENDENCIES
+
+There are no installation dependencies for this module. However, the import of plate files into TRL::MT_Plate requires TRL::Microarray
+
+COPYRIGHT AND LICENCE
+
+Put the correct copyright and licence information here.
+
+Copyright (C) 2007 by Christopher Jones
+
+This library is free software; you can redistribute it and/or modify
+it under the same terms as Perl itself
